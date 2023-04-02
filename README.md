@@ -1,5 +1,5 @@
 # Shopping-Store
-Shopping store built with Redux and Redux and deployed on Netlify.
+Shopping store built with React and Redux and deployed on Netlify.
 
 Live Preview at : https://shopnowhere.netlify.app/shoes
 
